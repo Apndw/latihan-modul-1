@@ -2,7 +2,7 @@
 
 int main() {
   string name = Validation::input("Enter your name: ");
-  string nim = Validation::input("Enter your NIM: ");
+  string nim = Validation::input("Enter your nim: ");
 
   cout << name << "\n" << nim << endl;
 
